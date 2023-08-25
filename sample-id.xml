@@ -1,0 +1,15 @@
+<resources>
+    <string name="simple_string">Halo Dunia!</string>
+    <string name="string_with_placeholders">Halo %s!</string>
+    <string name="string_w" formatted="false">%s pekerjaan di %s hari</string>
+    <string name="string_with_html_formatting">Halo <b>dunia</b>!</string>
+    <string name="string_with_other_html"><![CDATA[<h1>Hello world!</h1>]]></string>
+    <plurals name="plural_string">
+        <item quantity="other">%s kucing</item>
+    </plurals>
+    <string-array name="array_of_strings">
+        <item>Selalu</item>
+        <item>Mungkin</item>
+        <item>Tidak pernah</item>
+    </string-array>
+</resources>
